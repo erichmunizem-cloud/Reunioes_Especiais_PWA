@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId" version="2.0">
+  <!-- Your OPF file was broken so Sigil tried to rebuild it for you. -->
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:identifier id="BookId" opf:scheme="UUID">urn:uuid:a80e047b-0fa8-4b3c-96b8-ae5ba8bb954a</dc:identifier>
+    <dc:title>"Pastoreiem o Rebanho de Deus" - 1 Pedro 5:2</dc:title>
+    <dc:creator opf:file-as="EPub" opf:role="aut">Erich</dc:creator>
+    <dc:language>pt</dc:language>
+    <dc:date opf:event="modification">2014-08-21</dc:date>
+    <meta content="0.7.4" name="Sigil version" />
+    <meta name="cover" content="Cover_x.jpg" />
+  </metadata>
+  <manifest>
+    <item href="toc.ncx" id="ncx" media-type="application/x-dtbncx+xml" />
+    <item href="Text/Cover.xhtml" id="Cover.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/Cover%20x.jpg" id="Cover_x.jpg" media-type="image/jpeg" />
+    <item href="Images/002.jpg" id="x002.jpg" media-type="image/jpeg" />
+    <item href="Styles/sgc-toc.css" id="sgc-toc.css" media-type="text/css" />
+    <item href="Text/Section0001.xhtml" id="Section0001.xhtml" media-type="application/xhtml+xml" />
+    <item href="Images/cover_x.jpg" id="cover_x.jpg" media-type="image/jpeg" />
+    <item href="Text/Section0002.xhtml" id="Section0002.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0003.xhtml" id="Section0003.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0004.xhtml" id="Section0004.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0005.xhtml" id="Section0005.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0006.xhtml" id="Section0006.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0007.xhtml" id="Section0007.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0008.xhtml" id="Section0008.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0009.xhtml" id="Section0009.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0010.xhtml" id="Section0010.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0011.xhtml" id="Section0011.xhtml" media-type="application/xhtml+xml" />
+    <item href="Text/Section0012.xhtml" id="Section0012.xhtml" media-type="application/xhtml+xml" />
+    <item href="Styles/sgc-index.css" id="sgc-index.css" media-type="text/css" />
+    <item href="Text/TOC.xhtml" id="TOC.xhtml" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="TOC.xhtml" />
+    <itemref idref="Cover.xhtml" />
+    <itemref idref="Section0001.xhtml" />
+    <itemref idref="Section0002.xhtml" />
+    <itemref idref="Section0003.xhtml" />
+    <itemref idref="Section0004.xhtml" />
+    <itemref idref="Section0005.xhtml" />
+    <itemref idref="Section0006.xhtml" />
+    <itemref idref="Section0007.xhtml" />
+    <itemref idref="Section0008.xhtml" />
+    <itemref idref="Section0009.xhtml" />
+    <itemref idref="Section0010.xhtml" />
+    <itemref idref="Section0011.xhtml" />
+    <itemref idref="Section0012.xhtml" />
+  </spine>
+  <guide>
+    <reference href="Text/Cover.xhtml" title="Capa" type="cover" />
+    <reference href="Text/TOC.xhtml" title="Sumário" type="toc" />
+  </guide>
+</package>

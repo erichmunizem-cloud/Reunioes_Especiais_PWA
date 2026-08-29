@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<package version="3.0" xmlns="http://www.idpf.org/2007/opf" unique-identifier="BookId">
+<metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+<dc:title>Pastoreiem (ks10-T)</dc:title>
+<dc:creator id="creator" xml:lang="pt" dir="ltr">TORRE DE VIGIA</dc:creator>
+<meta refines="#creator" property="role" scheme="marc:relators" id="role">aut</meta><dc:language>pt</dc:language>
+<dc:publisher>Associação Torre de Vigia de Bíblias e Tratados</dc:publisher>
+<dc:identifier id="BookId">urn:uuid:92232119-3DA5-4DEB-AD2F-2F6D47C7C91C</dc:identifier>
+<meta property="dcterms:modified">2015-03-16T10:47:22Z</meta>
+
+<meta name="cover" content="cover-image"/>
+</metadata>
+<manifest>
+<item id="toc" properties="nav" href="toc.xhtml" media-type="application/xhtml+xml" />
+<item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+<item id="style1" href="css/default.css" media-type="text/css" />
+<item id="style2" href="css/fonts.css" media-type="text/css" />
+<item id="style3" href="css/extracted.css" media-type="text/css" />
+<item id="style4" href="css/epub2toc.css" media-type="text/css" />
+<item id="cover" href="cover.xhtml" media-type="application/xhtml+xml" />
+<item id="cover-image" properties="cover-image" href="images/1102010396_T_cvr.jpg" media-type="image/jpeg" />
+<item id="chapter1" href="1102010396.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter2" href="1102010381.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter3" href="1102010395.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter4" href="1102010382.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter5" href="1102010383.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter6" href="1102010384.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter7" href="1102010385.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter8" href="1102010386.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter9" href="1102010387.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter10" href="1102010388.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter11" href="1102010389.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter12" href="1102010390.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter13" href="1102010391.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter14" href="1102010392.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter15" href="1102010393.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter16" href="1102010394.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter17" href="1102010396-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter18" href="1102010381-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter19" href="1102010395-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter20" href="1102010382-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter21" href="1102010383-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter22" href="1102010384-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter23" href="1102010385-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter24" href="1102010386-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter25" href="1102010387-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter26" href="1102010388-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter27" href="1102010389-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter28" href="1102010390-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter29" href="1102010391-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter30" href="1102010392-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter31" href="1102010393-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter32" href="1102010394-extracted.xhtml" media-type="application/xhtml+xml" />
+<item id="chapter33" href="pagenav.xhtml" media-type="application/xhtml+xml" />
+</manifest>
+<spine toc="ncx" page-progression-direction="ltr">
+<itemref idref="cover" linear="no" />
+<itemref idref="toc" linear="no" />
+<itemref idref="chapter1" />
+<itemref idref="chapter2" />
+<itemref idref="chapter3" />
+<itemref idref="chapter4" />
+<itemref idref="chapter5" />
+<itemref idref="chapter6" />
+<itemref idref="chapter7" />
+<itemref idref="chapter8" />
+<itemref idref="chapter9" />
+<itemref idref="chapter10" />
+<itemref idref="chapter11" />
+<itemref idref="chapter12" />
+<itemref idref="chapter13" />
+<itemref idref="chapter14" />
+<itemref idref="chapter15" />
+<itemref idref="chapter16" />
+<itemref idref="chapter17" linear="no" />
+<itemref idref="chapter18" linear="no" />
+<itemref idref="chapter19" linear="no" />
+<itemref idref="chapter20" linear="no" />
+<itemref idref="chapter21" linear="no" />
+<itemref idref="chapter22" linear="no" />
+<itemref idref="chapter23" linear="no" />
+<itemref idref="chapter24" linear="no" />
+<itemref idref="chapter25" linear="no" />
+<itemref idref="chapter26" linear="no" />
+<itemref idref="chapter27" linear="no" />
+<itemref idref="chapter28" linear="no" />
+<itemref idref="chapter29" linear="no" />
+<itemref idref="chapter30" linear="no" />
+<itemref idref="chapter31" linear="no" />
+<itemref idref="chapter32" linear="no" />
+<itemref idref="chapter33" />
+</spine>
+<guide><reference type="cover" href="cover.xhtml" title="Capa"/></guide>
+</package>

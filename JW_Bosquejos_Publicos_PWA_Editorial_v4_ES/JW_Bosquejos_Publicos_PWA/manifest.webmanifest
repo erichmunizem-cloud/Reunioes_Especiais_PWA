@@ -1,0 +1,21 @@
+{
+  "name": "Bosquejos Públicos — Biblioteca Editorial",
+  "short_name": "Bosquejos Públicos",
+  "lang": "es",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#f4edda",
+  "theme_color": "#0f233b",
+  "icons": [
+    {
+      "src": "assets/icons/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/icons/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}

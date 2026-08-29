@@ -1,0 +1,457 @@
+/* default.css - */
+
+/* All text aligned left, Arial font.  No text indent.  
+
+/* ------------------------------------------------------ */
+
+
+/* THE FOLLOWING * ENTRY BELOW IS SUPPOSE TO SET ANY AND ALL BROWSER DEFAULT PROPERTIES ON YOUR PAGE TO ZERO. */
+
+* { 
+	margin: 0;
+	padding: 0;	
+	border: 0;
+	text-indent: 0;
+}
+						
+
+/* NEW DEFAULT STYLES */
+
+@page {    	
+	border: .5ex; 
+}
+
+body  /* entire magazine */{
+	text-align: left;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: .95em;
+	margin: 5%;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+body p /* entire magazine */{
+	text-indent: 0;
+}
+
+
+/* H */
+
+h1.coverTtl {
+	display: none;
+}
+
+h1 { 
+	line-height: normal;
+	font-size: 2em;
+	margin-bottom: 1em;
+}
+
+h1.contextTtl /* wp has p */{
+	color: #999999;
+	font-size: 1.05em;
+}
+
+h1 strong, h1.contextTtl strong{
+	font-weight: 500;
+}
+
+h2 {
+	line-height: normal;
+	font-size: 1.25em;
+	margin-top: .5em;
+	margin-bottom: .25em;
+}
+
+h3  {
+	line-height: normal;
+	font-size: 1.2em;
+	padding-top: .4em;
+	padding-bottom: .5em;
+}
+
+h3.inline {
+	line-height: normal;
+	font-size: 1.2em;
+	padding-top: 0;
+	padding-bottom: .5em;
+}
+
+h2 strong, h3 strong, h3.inline strong{
+	color: #424242;
+	font-weight: 500;
+}
+
+/* P */
+
+p {
+	line-height: 1.2em;
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: .95em;
+	padding-bottom: 1em /* Android */;
+	orphans: 2;
+	widows: 2;
+	-webkit-font-smoothing: subpixel-antialiased;
+}
+
+p.byline {
+	font-size: .85em;
+}
+
+p.contextTtl { 
+	color: #999999;
+	line-height: normal;
+	font-size: 1.05em;
+	padding-bottom: .25em;
+}
+
+p.contextTtl strong {
+	font-weight: 500;
+}
+
+p.themeScrp {
+	font-size: 1.2em;
+	margin-bottom: .5em;
+}
+
+p.w_pagenavnum {
+	font-size: x-large;
+}
+
+
+/* OTHER */
+
+ins, h2 ins strong {
+	color: rgb(17, 63, 248);
+}
+del, h2 del strong {
+	color: rgb(134, 127, 126);
+}
+
+blockquote {
+	padding-right: .5em;
+	padding-left: .5em;
+}
+
+blockquote.rule {
+	margin-bottom: 1em;
+	padding-top: 1em;
+	padding-right: .5em;
+	padding-left: .5em;
+	border-top: 1px solid;
+	border-bottom: 1px solid;
+}
+
+ul.noMarker { 
+	list-style-type: none;
+	margin-left: -.5em; 
+	padding-left: 0;	
+}
+
+ol { 
+	padding-left: 1.5em;
+}
+ol.upperAlpha {
+	list-style-type:upper-alpha;
+}
+ol.source {
+	list-style-type:none;
+}
+ul {
+	margin-top: 0;	
+	margin-right: 0;	
+	margin-left: 2.5em;	
+	margin-bottom: 0;	
+}
+
+li {
+	padding-left: .5em;
+}
+
+
+/* DIV */
+
+div.openingContent {
+	clear: both;
+	font-size: 1.2em;
+	padding: 1em;
+	margin-bottom: 1em;
+	border: 1px solid #999999;
+	}
+
+div.openingContent p{
+	padding-bottom: .5em;
+}
+div.copyrightInfo, div.groupPubInfo {
+	text-align:center;
+	margin-bottom: 1em;
+}
+div.openingContent blockquote /* added for g14 05 COVER SUBJECT */{
+	padding-right: 0;
+	padding-left: 0;
+}
+
+div.closingContent {
+	clear: both;
+	padding-top: 1em;
+}
+
+div.relatedContent {
+	clear: both;
+	margin-top: 1em;
+	border-top: 1px solid #999999;
+}
+
+div.relatedContent p{
+	padding-top: 1em;
+}
+div.groupTOC p {
+	font-size: 1.25em;
+	margin-left: 1em;
+}
+div.groupTOC h2 {
+	font-size: 1.25em;
+	padding-top: 1em;
+	margin-bottom: .5em;
+}
+/* blurbs */
+
+div.stdCaption p, div.stdPullQuote p, div.blockTxt.rule  {
+	color: #999999;
+	clear: both; /* required */
+	font-size: 1.3em;
+	margin-bottom: 1em;
+	padding-top: 1em;
+	padding-right: 1em;
+	padding-left: 1em; /* padding-bottom not required - pulls from p */
+	display: block;
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+}
+
+div.blockTxt.rule /* added for g14 06 .WID */ {
+	padding-bottom: 0;
+}
+
+div.blockTxt.rule.small {
+	font-size: .95em;
+	margin-top: 1em;
+	border-top: 1px solid #999999;
+	border-bottom: 1px solid #999999;
+}
+
+div.stdCaption.floatEast, div.stdPullQuote.floatEast , div.blockTxt.floatEast{
+	clear: both; /* required */
+	width: 40%;
+    float: right;
+	margin-bottom: 1em;
+	margin-left: 1em;
+}
+
+
+/* boxes */
+
+div.boxSupplement, div.boxSupplement.rule {
+	color: #424242;
+	clear: both;
+	margin-top: 2em;
+	margin-bottom: 2em;
+	page-break-inside: avoid;
+	background-color: #f3f3f5;
+	overflow: auto;
+	-webkit-column-break-inside: avoid;
+}
+
+div.boxTtl {
+	font-size: 1.2em;
+	padding-top: 1em;
+	padding-right: 1em; 
+	/* 'padding-bottom: 1em' pulls from p */
+	padding-left: 1em; 
+	/* 'padding-left: 1em' and 'padding-right: 1em' allows rule to go full-width of box */
+}
+
+div.boxTtl.rule {
+	padding-bottom: .5em;
+	border-bottom: 1px solid #CCC;
+}
+
+div.boxTtl.emphasized {
+	color: #ffffff;
+	padding-top: .6em;
+	padding-bottom: .5em;
+	background-color: #9E9C9B; 
+}
+
+div.boxTtl  strong, div.boxTtl.rule  strong, div.boxTtl.emphasized strong {
+	font-weight: 500;
+}
+
+div.boxContent {
+	padding-top: 1em;
+	padding-right: 1em;
+	padding-bottom: .2em;
+	padding-left: 1em;
+}
+
+/* images */
+
+div.north_center  { 
+	width: 100% !important;
+	clear: both;
+    margin-bottom: 1em;
+}
+
+div.south_center { 
+	width: 100% !important;
+	clear: both;
+    margin-bottom: 1em;
+}
+
+div.east_right {
+	width: 40% !important;
+	clear: both;
+	float: right;
+    margin-bottom: 1em;
+	margin-left: 1em;
+	display: inline-block;
+}
+
+div.east_left  {
+	width: 25% !important;
+	clear: both;
+	float: right;
+    margin-bottom: 1em;
+	margin-left: 1em;
+	display: inline-block;
+}
+
+div.west_left {
+	width: 25% !important;
+	clear: both;
+	float: left;
+	margin-right: 1em;
+	margin-bottom: 1em;
+	display: inline-block;
+}
+
+img, figure{     
+	width: 100% !important; /* Android - !important */
+	clear: both;
+    margin: 0;
+}
+
+/* image caption */
+
+div.north_center p, div.south_center p, div.east_right p {
+	font-size: .85em;
+	padding-top: .45em;
+	padding-bottom: .75em;
+	border-bottom: 1px solid;
+}
+
+
+/* EXTRACTED */
+
+div.groupFootnote:before{
+	color: #999999;
+	content: "_______________";
+}
+
+div.groupFootnote  {
+	clear: both;
+	margin-top: 2em;
+}
+
+div.groupFootnote p {
+	margin-top: 1em;
+	padding-bottom: 0;
+}
+
+div.groupExtScrpCite div#citation1.extScrpCite:before  {
+	color: #999999;
+	content: "_______________";
+}
+
+div.groupExtScrpCite  {
+	clear: both;
+	margin-top: 2em;
+}
+
+div.groupExtScrpCite p {
+	margin-top: 1em;
+	padding-bottom: 0;
+}
+
+
+/* LINK ELEMENTS */
+
+/* apple: iBooks, iPad, iPhone */
+
+a:link {
+	-webkit-text-fill-color: #3fa2bf;
+	-webkit-tap-highlight-color: silver;
+} 
+
+a:visited {
+	text-decoration: none;
+	-webkit-text-fill-color: gray;
+	-webkit-tap-highlight-color: silver;
+}
+
+a:hover {
+	text-decoration: none;
+	-webkit-text-fill-color: blue;
+	-webkit-tap-highlight-color: silver;
+} 
+
+a:active {
+	-webkit-text-fill-color: maroon;
+	-webkit-tap-highlight-color: silver;
+} 
+
+/* web browsers + other */
+
+a:link {
+	color: #3fa2bf;
+}  
+
+a:visited {
+	color: #c9c9c9;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #0000FF;
+	text-decoration: none;
+} 
+
+a:active {
+	color: #800000;
+} 
+
+/* mobi */
+
+e:link {
+	color: #3fa2bf;
+} 
+
+e:visited {
+	color: #c9c9c9;
+	text-decoration: none;
+}
+
+e:active {
+	color: #800000;
+} 
+
+e:hover {
+	color: #0000FF;
+	text-decoration: none;
+} 
+
+e:focus {
+	color: #3fa2bf;
+	background-color: #c5b587;
+}
+
+/* ------------------------------------------------------ */

@@ -1,0 +1,30 @@
+REUNIÕES ESPECIAIS — PWA / GITHUB PAGES
+
+Projeto montado conforme “Design de Web App Luxuoso.pdf”.
+
+ESTRUTURA
+- 10 seções: as 9 solicitadas no documento e a seção complementar “Superintendentes”, presente no pacote Reuniones.zip.
+- Layout clássico em azul-marinho, dourado e creme.
+- Monograma RE geométrico, sem símbolo religioso.
+- Busca instantânea e filtros por ano/subgrupo.
+- Leitor interno para PDF, áudio e vídeo.
+- KS10.epub e ks10_T.epub possuem leitores internos extraídos do próprio EPUB, além do arquivo EPUB original.
+- Botões JW/WOL são exibidos quando os pacotes de pesquisa fornecidos contêm uma correspondência oficial.
+- PWA com manifest, ícones, service worker e cache sob demanda.
+
+PUBLICAÇÃO NO GITHUB PAGES
+1. Crie um repositório no GitHub.
+2. Envie o CONTEÚDO desta pasta para a raiz do repositório.
+3. Em Settings > Pages, selecione “Deploy from a branch”, branch main e pasta /(root).
+4. Aguarde o endereço HTTPS do GitHub Pages.
+5. Abra o endereço no Safari/Chrome e use “Adicionar à Tela de Início” / “Instalar aplicativo”.
+
+IMPORTANTE
+- Não abra apenas index.html com file:// para testar o modo PWA. A interface e os arquivos podem abrir localmente, mas instalação, cache e service worker exigem HTTP/HTTPS.
+- O service worker não baixa centenas de MB durante a instalação. Os documentos são armazenados no cache conforme são abertos, reduzindo o consumo inicial de armazenamento.
+- O navegador pode limitar o armazenamento offline conforme o espaço disponível no aparelho.
+
+MÍDIA OTIMIZADA PARA GITHUB
+- Que te pasa dormilon: dividido sem recodificação em 5 partes para manter cada arquivo abaixo de 100 MB no GitHub.
+
+TOTAL DE ITENS INDEXADOS: 226

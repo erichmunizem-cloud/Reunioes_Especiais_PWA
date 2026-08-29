@@ -1,0 +1,30 @@
+BOSQUEJOS PÚBLICOS — PWA · REVISIÓN 3
+
+Mejoras de esta revisión:
+- Texto de los bosquejos normalizado para evitar líneas fuera de la diagramación.
+- Se conservó el español original; solo se corrigieron artefactos tipográficos de extracción de PDF.
+- Jerarquía reconstruida para títulos, notas, instrucciones y niveles de párrafo.
+- 6105 referencias bíblicas cruzadas con la Traducción del Nuevo Mundo (edición de estudio), JW.ORG.
+- 2401 cruces con publicaciones, agrupados en 54 familias/códigos.
+- Índice de publicaciones con retorno directo a cada bosquejo.
+- Citas de publicaciones enlazadas exclusivamente a la Biblioteca en línea Watchtower (JW.ORG).
+- Filtro por publicación añadido a la biblioteca.
+- Enlaces bíblicos y de publicaciones también aparecen dentro del texto del bosquejo.
+- Caché sin conexión actualizado para esta revisión.
+
+Contenido original:
+- 208 versiones de bosquejos S-34-S
+- 186 números distintos
+- 10 imágenes JPG
+- 1 vídeo MP4
+
+Uso PWA:
+Sirva la carpeta por HTTP/HTTPS (GitHub Pages, por ejemplo). No abra index.html mediante file:// si desea instalación y service worker.
+
+Datos personales:
+Favoritos y anotaciones permanecen en localStorage. Use “Copia” para exportar/importar un JSON.
+
+REVISIÓN 3 — IDENTIDAD EDITORIAL
+- Se retiró la identificación S-34-S de los títulos y áreas visuales del PWA.
+- Nueva portada con formato de libro, lomo lateral azul marino, detalles dorados y efecto de grabación en relieve.
+- Se incorporó el logo de Biblia abierta con micrófono en portada, cabecera e iconos del PWA.

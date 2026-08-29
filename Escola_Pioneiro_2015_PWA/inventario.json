@@ -1,0 +1,262 @@
+[
+  {
+    "path": "README.md",
+    "bytes": 295
+  },
+  {
+    "path": "app.js",
+    "bytes": 7320
+  },
+  {
+    "path": "assets/capa.webp",
+    "bytes": 173280
+  },
+  {
+    "path": "assets/icon-192.png",
+    "bytes": 59161
+  },
+  {
+    "path": "assets/icon-512.png",
+    "bytes": 368306
+  },
+  {
+    "path": "data.js",
+    "bytes": 7556
+  },
+  {
+    "path": "docs/instrucoes/instrutor-a.pdf",
+    "bytes": 17920
+  },
+  {
+    "path": "docs/instrucoes/instrutor-b.pdf",
+    "bytes": 16924
+  },
+  {
+    "path": "docs/instrucoes/programacao.pdf",
+    "bytes": 154956
+  },
+  {
+    "path": "docs/instrucoes/s-255-orientacoes-instrutor.pdf",
+    "bytes": 260492
+  },
+  {
+    "path": "docs/instrucoes/s-256-lista-verificacao.pdf",
+    "bytes": 92052
+  },
+  {
+    "path": "docs/instrucoes/s-257-questionario.pdf",
+    "bytes": 3099851
+  },
+  {
+    "path": "docs/manual/pt14_T.pdf",
+    "bytes": 2835021
+  },
+  {
+    "path": "docs/videos/comentarios-finais.pdf",
+    "bytes": 81748
+  },
+  {
+    "path": "docs/videos/comentarios-iniciais.pdf",
+    "bytes": 120651
+  },
+  {
+    "path": "docs/videos/completamente-equipados.pdf",
+    "bytes": 148213
+  },
+  {
+    "path": "docs/videos/leitura-biblica-01.pdf",
+    "bytes": 65846
+  },
+  {
+    "path": "docs/videos/leitura-biblica-02.pdf",
+    "bytes": 72286
+  },
+  {
+    "path": "docs/videos/media/comentarios-finais.mp4",
+    "bytes": 40987782
+  },
+  {
+    "path": "docs/videos/media/comentarios-iniciais.mp4",
+    "bytes": 22403471
+  },
+  {
+    "path": "docs/videos/media/completamente-equipados.mp4",
+    "bytes": 74128746
+  },
+  {
+    "path": "docs/videos/media/leitura-biblica-01.mp4",
+    "bytes": 3429238
+  },
+  {
+    "path": "docs/videos/media/leitura-biblica-02.mp4",
+    "bytes": 6933403
+  },
+  {
+    "path": "docs/videos/media/resistem-ataque-nazista.mp4",
+    "bytes": 60692687
+  },
+  {
+    "path": "docs/videos/media/traducao-proclamacoes-sagradas.mp4",
+    "bytes": 64148954
+  },
+  {
+    "path": "docs/videos/resistem-ataque-nazista.pdf",
+    "bytes": 162856
+  },
+  {
+    "path": "docs/videos/traducao-proclamacoes-sagradas.pdf",
+    "bytes": 152620
+  },
+  {
+    "path": "docs/workshops/workshop-1-designacao-01.pdf",
+    "bytes": 82393
+  },
+  {
+    "path": "docs/workshops/workshop-1-designacao-02.pdf",
+    "bytes": 44220
+  },
+  {
+    "path": "docs/workshops/workshop-1-designacao-03.pdf",
+    "bytes": 62339
+  },
+  {
+    "path": "docs/workshops/workshop-1-designacao-04.pdf",
+    "bytes": 56455
+  },
+  {
+    "path": "docs/workshops/workshop-1-designacao-05.pdf",
+    "bytes": 52808
+  },
+  {
+    "path": "docs/workshops/workshop-1-designacao-06.pdf",
+    "bytes": 52540
+  },
+  {
+    "path": "docs/workshops/workshop-1-instrutor.pdf",
+    "bytes": 37753
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-07.pdf",
+    "bytes": 45827
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-08.pdf",
+    "bytes": 57872
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-09.pdf",
+    "bytes": 56453
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-10.pdf",
+    "bytes": 47366
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-11.pdf",
+    "bytes": 48951
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-12.pdf",
+    "bytes": 50647
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-13.pdf",
+    "bytes": 50801
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-14.pdf",
+    "bytes": 47592
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-15.pdf",
+    "bytes": 53915
+  },
+  {
+    "path": "docs/workshops/workshop-2-designacao-16.pdf",
+    "bytes": 46804
+  },
+  {
+    "path": "docs/workshops/workshop-2-instrutor.pdf",
+    "bytes": 32234
+  },
+  {
+    "path": "docs/workshops/workshop-3-designacao-17.pdf",
+    "bytes": 57374
+  },
+  {
+    "path": "docs/workshops/workshop-3-designacao-18.pdf",
+    "bytes": 54456
+  },
+  {
+    "path": "docs/workshops/workshop-3-designacao-19.pdf",
+    "bytes": 56252
+  },
+  {
+    "path": "docs/workshops/workshop-3-designacao-20.pdf",
+    "bytes": 54403
+  },
+  {
+    "path": "docs/workshops/workshop-3-designacao-21.pdf",
+    "bytes": 46633
+  },
+  {
+    "path": "docs/workshops/workshop-3-designacao-22.pdf",
+    "bytes": 53149
+  },
+  {
+    "path": "docs/workshops/workshop-3-designacao-23.pdf",
+    "bytes": 54332
+  },
+  {
+    "path": "docs/workshops/workshop-3-instrutor.pdf",
+    "bytes": 31129
+  },
+  {
+    "path": "docs/workshops/workshop-4-designacao-24.pdf",
+    "bytes": 54216
+  },
+  {
+    "path": "docs/workshops/workshop-4-designacao-25.pdf",
+    "bytes": 65682
+  },
+  {
+    "path": "docs/workshops/workshop-4-designacao-26.pdf",
+    "bytes": 52645
+  },
+  {
+    "path": "docs/workshops/workshop-4-designacao-27.pdf",
+    "bytes": 55266
+  },
+  {
+    "path": "docs/workshops/workshop-4-designacao-28.pdf",
+    "bytes": 47442
+  },
+  {
+    "path": "docs/workshops/workshop-4-designacao-29.pdf",
+    "bytes": 51454
+  },
+  {
+    "path": "docs/workshops/workshop-4-designacao-30.pdf",
+    "bytes": 59095
+  },
+  {
+    "path": "docs/workshops/workshop-4-instrutor.pdf",
+    "bytes": 52083
+  },
+  {
+    "path": "index.html",
+    "bytes": 1444
+  },
+  {
+    "path": "manifest.webmanifest",
+    "bytes": 526
+  },
+  {
+    "path": "styles.css",
+    "bytes": 5393
+  },
+  {
+    "path": "sw.js",
+    "bytes": 1755
+  }
+]

@@ -1,0 +1,1582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<!DOCTYPE ncx PUBLIC "-//NISO//DTD ncx 2005-1//EN"
+ "http://www.daisy.org/z3986/2005/ncx-2005-1.dtd">
+<ncx xmlns="http://www.daisy.org/z3986/2005/ncx/" version="2005-1">
+  <head>
+    <meta content="urn:uuid:a80e047b-0fa8-4b3c-96b8-ae5ba8bb954a" name="dtb:uid"/>
+    <meta content="4" name="dtb:depth"/>
+    <meta content="0" name="dtb:totalPageCount"/>
+    <meta content="0" name="dtb:maxPageNumber"/>
+  </head>
+  <docTitle>
+    <text>"Pastoreiem o Rebanho de Deus" - 1 Pedro 5:2</text>
+  </docTitle>
+  <navMap>
+    <navPoint id="navPoint-1" playOrder="1">
+      <navLabel>
+        <text>Capítulo Um</text>
+      </navLabel>
+      <content src="Text/Section0001.xhtml#sigil_toc_id_1"/>
+      <navPoint id="navPoint-2" playOrder="2">
+        <navLabel>
+          <text>PASTOREIEM O REBANHO DE DEUS</text>
+        </navLabel>
+        <content src="Text/Section0001.xhtml#sigil_toc_id_2"/>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-3" playOrder="3">
+      <navLabel>
+        <text>Capítulo Dois</text>
+      </navLabel>
+      <content src="Text/Section0002.xhtml#sigil_toc_id_3"/>
+      <navPoint id="navPoint-4" playOrder="4">
+        <navLabel>
+          <text>COMO OS ANCIÃOS TRABALHAM JUNTOS COMO UM CORPO</text>
+        </navLabel>
+        <content src="Text/Section0002.xhtml#sigil_toc_id_4"/>
+        <navPoint id="navPoint-5" playOrder="5">
+          <navLabel>
+            <text>re cap. 6 pp. 28-29 Descerrado um segredo sagrado</text>
+          </navLabel>
+          <content src="Text/Section0002.xhtml#sigil_toc_id_5"/>
+        </navPoint>
+        <navPoint id="navPoint-6" playOrder="6">
+          <navLabel>
+            <text>re cap. 21 pp. 136-137 As pragas de Jeová lançadas sobre a cristandade</text>
+          </navLabel>
+          <content src="Text/Section0002.xhtml#sigil_toc_id_6"/>
+        </navPoint>
+        <navPoint id="navPoint-7" playOrder="7">
+          <navLabel>
+            <text>Reuniões de anciãos</text>
+          </navLabel>
+          <content src="Text/Section0002.xhtml#sigil_toc_id_7"/>
+        </navPoint>
+        <navPoint id="navPoint-8" playOrder="8">
+          <navLabel>
+            <text>A estrutura do corpo de anciãos</text>
+          </navLabel>
+          <content src="Text/Section0002.xhtml#sigil_toc_id_8"/>
+          <navPoint id="navPoint-9" playOrder="9">
+            <navLabel>
+              <text>km 3/97 p. 7 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_9"/>
+          </navPoint>
+          <navPoint id="navPoint-10" playOrder="10">
+            <navLabel>
+              <text>w96 15/1 p. 18 As ovelhas de Jeová necessitam de terno cuidado</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_10"/>
+          </navPoint>
+          <navPoint id="navPoint-11" playOrder="11">
+            <navLabel>
+              <text>km 12/03 p. 6 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_11"/>
+          </navPoint>
+          <navPoint id="navPoint-12" playOrder="12">
+            <navLabel>
+              <text>km 8/89 pp. 7-8 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_12"/>
+          </navPoint>
+          <navPoint id="navPoint-13" playOrder="13">
+            <navLabel>
+              <text>km 12/06 p. 8 Você tem um território pessoal?</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_13"/>
+          </navPoint>
+          <navPoint id="navPoint-14" playOrder="14">
+            <navLabel>
+              <text>od cap. 9 pp. 102-104 Métodos de pregar as boas novas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_14"/>
+          </navPoint>
+          <navPoint id="navPoint-15" playOrder="15">
+            <navLabel>
+              <text>km 8/81 p. 7 Tem trabalhado cabalmente seu território?</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_15"/>
+          </navPoint>
+          <navPoint id="navPoint-16" playOrder="16">
+            <navLabel>
+              <text>km 9/92 p. 7 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_16"/>
+          </navPoint>
+          <navPoint id="navPoint-17" playOrder="17">
+            <navLabel>
+              <text>km 4/87 p. 4 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_17"/>
+          </navPoint>
+          <navPoint id="navPoint-18" playOrder="18">
+            <navLabel>
+              <text>km 4/86 p. 3 Ensinar nas revisitas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_18"/>
+          </navPoint>
+          <navPoint id="navPoint-19" playOrder="19">
+            <navLabel>
+              <text>km 12/03 p. 6 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_19"/>
+          </navPoint>
+          <navPoint id="navPoint-20" playOrder="20">
+            <navLabel>
+              <text>km 11/08 p. 3 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_20"/>
+          </navPoint>
+          <navPoint id="navPoint-21" playOrder="21">
+            <navLabel>
+              <text>od cap. 5 p. 42 Superintendentes para pastorear o rebanho</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_21"/>
+          </navPoint>
+          <navPoint id="navPoint-22" playOrder="22">
+            <navLabel>
+              <text>od cap. 11 p. 122 Locais de adoração</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_22"/>
+          </navPoint>
+          <navPoint id="navPoint-23" playOrder="23">
+            <navLabel>
+              <text>km 12/07 pp. 3-4 par. 6 Congresso de Distrito das Testemunhas de Jeová de 2008</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_23"/>
+          </navPoint>
+          <navPoint id="navPoint-24" playOrder="24">
+            <navLabel>
+              <text>od cap. 10 pp. 111-112 Maneiras de expandir seu ministério</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_24"/>
+          </navPoint>
+          <navPoint id="navPoint-25" playOrder="25">
+            <navLabel>
+              <text>w88 15/11 p. 17 pars. 8-10 Ajudemos outros a adorar a Deus</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_25"/>
+          </navPoint>
+          <navPoint id="navPoint-26" playOrder="26">
+            <navLabel>
+              <text>od cap. 8 pp. 85-86 Ministros das boas novas</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_26"/>
+          </navPoint>
+          <navPoint id="navPoint-27" playOrder="27">
+            <navLabel>
+              <text>w03 1/9 pp. 21-22 Louve a Jeová “no meio da congregação”</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_27"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-28" playOrder="28">
+          <navLabel>
+            <text>Empenhem-se pela paz entre si, como homens espirituais</text>
+          </navLabel>
+          <content src="Text/Section0002.xhtml#sigil_toc_id_28"/>
+          <navPoint id="navPoint-29" playOrder="29">
+            <navLabel>
+              <text>it-3 p. 192 Paz</text>
+            </navLabel>
+            <content src="Text/Section0002.xhtml#sigil_toc_id_29"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-30" playOrder="30">
+      <navLabel>
+        <text>Capítulo Três</text>
+      </navLabel>
+      <content src="Text/Section0003.xhtml#sigil_toc_id_30"/>
+      <navPoint id="navPoint-31" playOrder="31">
+        <navLabel>
+          <text>DESIGNAÇÃO E REMOÇÃO DE ANCIÃOS E SERVOS MINISTERIAIS</text>
+        </navLabel>
+        <content src="Text/Section0003.xhtml#sigil_toc_id_31"/>
+        <navPoint id="navPoint-32" playOrder="32">
+          <navLabel>
+            <text>Examinem com cuidado as qualificações bíblicas</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_32"/>
+          <navPoint id="navPoint-33" playOrder="33">
+            <navLabel>
+              <text>w01 15/1 pp. 13-14 par. 10 Superintendentes e servos ministeriais designados teocraticamente</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_33"/>
+          </navPoint>
+          <navPoint id="navPoint-34" playOrder="34">
+            <navLabel>
+              <text>od cap. 5 pp. 27-54 Superintendentes para pastorear o rebanho</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_34"/>
+          </navPoint>
+          <navPoint id="navPoint-35" playOrder="35">
+            <navLabel>
+              <text>od cap. 6 pp. 54-58 Servos ministeriais prestam serviços valiosos</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_35"/>
+          </navPoint>
+          <navPoint id="navPoint-36" playOrder="36">
+            <navLabel>
+              <text>w01 15/1 p. 14 par. 13 Superintendentes e servos ministeriais designados teocraticamente</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_36"/>
+          </navPoint>
+          <navPoint id="navPoint-37" playOrder="37">
+            <navLabel>
+              <text>w01 15/1 p. 14 par. 11 Superintendentes e servos ministeriais designados teocraticamente</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_37"/>
+          </navPoint>
+          <navPoint id="navPoint-38" playOrder="38">
+            <navLabel>
+              <text>od cap. 6 p. 56 Servos ministeriais prestam serviços valiosos</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_38"/>
+          </navPoint>
+          <navPoint id="navPoint-39" playOrder="39">
+            <navLabel>
+              <text>w91 15/1 pp. 12-13 Ensinemos publicamente e de casa em casa</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_39"/>
+          </navPoint>
+          <navPoint id="navPoint-40" playOrder="40">
+            <navLabel>
+              <text>w90 1/9 p. 25 par. 7 Está habilitado para servir?</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_40"/>
+          </navPoint>
+          <navPoint id="navPoint-41" playOrder="41">
+            <navLabel>
+              <text>w88 1/3 p. 24 par. 5 Ter filhos de modo responsável neste tempo do fim</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_41"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-42" playOrder="42">
+          <navLabel>
+            <text/>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_42"/>
+          <navPoint id="navPoint-43" playOrder="43">
+            <navLabel>
+              <text>w90 1/9 p. 24 par. 5 Está habilitado para servir?</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_43"/>
+          </navPoint>
+          <navPoint id="navPoint-44" playOrder="44">
+            <navLabel>
+              <text>w88 1/11 pp. 21-22 par. 7 Quando a paz conjugal estiver ameaçada</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_44"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-45" playOrder="45">
+          <navLabel>
+            <text>Recomendações ao Escritório</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_45"/>
+        </navPoint>
+        <navPoint id="navPoint-46" playOrder="46">
+          <navLabel>
+            <text>Após o recebimento da resposta do Escritório</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_46"/>
+        </navPoint>
+        <navPoint id="navPoint-47" playOrder="47">
+          <navLabel>
+            <text>Situações que podem levantar dúvidas sobre as qualificações de um irmão designado</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_47"/>
+          <navPoint id="navPoint-48" playOrder="48">
+            <navLabel>
+              <text>w88 1/3 pp. 24-25 Ter filhos de modo responsável neste tempo do fim</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_48"/>
+          </navPoint>
+          <navPoint id="navPoint-49" playOrder="49">
+            <navLabel>
+              <text>w78 1/8 pp. 31-32 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_49"/>
+          </navPoint>
+          <navPoint id="navPoint-50" playOrder="50">
+            <navLabel>
+              <text>w72 15/7 p. 447 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_50"/>
+          </navPoint>
+          <navPoint id="navPoint-51" playOrder="51">
+            <navLabel>
+              <text>km 8/02 pp. 3-4 Demonstre lealdade cristã quando um parente é desassociado</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_51"/>
+          </navPoint>
+          <navPoint id="navPoint-52" playOrder="52">
+            <navLabel>
+              <text>w81 15/12 pp. 23-26 Quando um parente é desassociado . . .</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_52"/>
+          </navPoint>
+          <navPoint id="navPoint-53" playOrder="53">
+            <navLabel>
+              <text>w94 15/9 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_53"/>
+          </navPoint>
+          <navPoint id="navPoint-54" playOrder="54">
+            <navLabel>
+              <text>w68 1/11 pp. 670-671 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_54"/>
+          </navPoint>
+          <navPoint id="navPoint-55" playOrder="55">
+            <navLabel>
+              <text>w04 1/7 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_55"/>
+          </navPoint>
+          <navPoint id="navPoint-56" playOrder="56">
+            <navLabel>
+              <text>w02 1/5 p. 17 Jeová odeia a traição</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_56"/>
+          </navPoint>
+          <navPoint id="navPoint-57" playOrder="57">
+            <navLabel>
+              <text>w01 15/5 pp. 20-21 Orientação divina para a escolha de um cônjuge</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_57"/>
+          </navPoint>
+          <navPoint id="navPoint-58" playOrder="58">
+            <navLabel>
+              <text>w97 1/1 pp. 26-29 Abominemos o que é iníquo</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_58"/>
+          </navPoint>
+          <navPoint id="navPoint-59" playOrder="59">
+            <navLabel>
+              <text>w78 15/6 pp. 25-26 Genuíno arrependimento — como é discernido?</text>
+            </navLabel>
+            <content src="Text/Section0003.xhtml#sigil_toc_id_59"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-60" playOrder="60">
+          <navLabel>
+            <text>Procedimentos para reavaliar as qualificações de irmãos designados</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_60"/>
+        </navPoint>
+        <navPoint id="navPoint-61" playOrder="61">
+          <navLabel>
+            <text>Recomendações de remoção ao Escritório</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_61"/>
+        </navPoint>
+        <navPoint id="navPoint-62" playOrder="62">
+          <navLabel>
+            <text>Quando um irmão designado se muda para outra congregação</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_62"/>
+        </navPoint>
+        <navPoint id="navPoint-63" playOrder="63">
+          <navLabel>
+            <text>Quando um irmão designado se muda para a congregação</text>
+          </navLabel>
+          <content src="Text/Section0003.xhtml#sigil_toc_id_63"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-64" playOrder="64">
+      <navLabel>
+        <text>Capitulo Quatro</text>
+      </navLabel>
+      <content src="Text/Section0004.xhtml#sigil_toc_id_64"/>
+      <navPoint id="navPoint-65" playOrder="65">
+        <navLabel>
+          <text>AJUDEM OS QUE ESTÃO FRACOS</text>
+        </navLabel>
+        <content src="Text/Section0004.xhtml#sigil_toc_id_65"/>
+        <navPoint id="navPoint-66" playOrder="66">
+          <navLabel>
+            <text>Sintomas de fraqueza espiritual</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_66"/>
+          <navPoint id="navPoint-67" playOrder="67">
+            <navLabel>
+              <text>w86 15/1 pp. 18-19 Recuperam poder e não se cansam</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_67"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-68" playOrder="68">
+          <navLabel>
+            <text>Pastoreio que edifica</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_68"/>
+        </navPoint>
+        <navPoint id="navPoint-69" playOrder="69">
+          <navLabel>
+            <text>Dar conselhos edificantes</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_69"/>
+          <navPoint id="navPoint-70" playOrder="70">
+            <navLabel>
+              <text>w89 15/9 pp. 19-20 pars. 15-18 Anciãos — tratem o rebanho de Deus com ternura!</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_70"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-71" playOrder="71">
+          <navLabel>
+            <text>Ajudar os inativos</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_71"/>
+          <navPoint id="navPoint-72" playOrder="72">
+            <navLabel>
+              <text>cl cap. 24 - Nada pode “nos separar do amor de Deus”</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_72"/>
+          </navPoint>
+          <navPoint id="navPoint-73" playOrder="73">
+            <navLabel>
+              <text>w95 1/4 pp. 10-15 Você é precioso aos olhos de Deus!</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_73"/>
+          </navPoint>
+          <navPoint id="navPoint-74" playOrder="74">
+            <navLabel>
+              <text>w08 15/11 pp. 8-16 Ajude os que se desviaram do rebanho</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_74"/>
+          </navPoint>
+          <navPoint id="navPoint-75" playOrder="75">
+            <navLabel>
+              <text>w08 15/11 Ajude-os a voltar sem demora</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_75"/>
+          </navPoint>
+          <navPoint id="navPoint-76" playOrder="76">
+            <navLabel>
+              <text>w08 15/11 pp. 14-15 Ajude-os a voltar sem demora</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_76"/>
+          </navPoint>
+          <navPoint id="navPoint-77" playOrder="77">
+            <navLabel>
+              <text>od cap. 8 pp. 85-86 Ministros das boas novas</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_77"/>
+          </navPoint>
+          <navPoint id="navPoint-78" playOrder="78">
+            <navLabel>
+              <text>od cap. 8 pp. 79-81 Ministros das boas novas</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_78"/>
+          </navPoint>
+          <navPoint id="navPoint-79" playOrder="79">
+            <navLabel>
+              <text>km 11/00 p. 3 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_79"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-80" playOrder="80">
+          <navLabel>
+            <text>Ajudar irmãos com problemas conjugais</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_80"/>
+          <navPoint id="navPoint-81" playOrder="81">
+            <navLabel>
+              <text>w88 1/11 p. 21 pars. 3-5 Quando a paz conjugal estiver ameaçada</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_81"/>
+          </navPoint>
+          <navPoint id="navPoint-82" playOrder="82">
+            <navLabel>
+              <text>lv pp. 219-221 O conceito da Bíblia sobre divórcio e separação</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_82"/>
+          </navPoint>
+          <navPoint id="navPoint-83" playOrder="83">
+            <navLabel>
+              <text>w88 1/11 pp. 22-25 Quando a paz conjugal estiver ameaçada</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_83"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-84" playOrder="84">
+          <navLabel>
+            <text/>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_84"/>
+          <navPoint id="navPoint-85" playOrder="85">
+            <navLabel>
+              <text>w88 15/10 p. 27 Aflição mental — quando atinge o cristão</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_85"/>
+          </navPoint>
+          <navPoint id="navPoint-86" playOrder="86">
+            <navLabel>
+              <text>w84 1/5 p. 28 Ajuda para as vítimas de incesto</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_86"/>
+          </navPoint>
+          <navPoint id="navPoint-87" playOrder="87">
+            <navLabel>
+              <text>w95 1/1 p. 9 pars. 18-21 Triunfo sobre Satanás e sua obra</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_87"/>
+          </navPoint>
+          <navPoint id="navPoint-88" playOrder="88">
+            <navLabel>
+              <text>g91 8/10 p. 3 As vítimas inocentes do abuso de crianças</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_88"/>
+          </navPoint>
+          <navPoint id="navPoint-89" playOrder="89">
+            <navLabel>
+              <text>g91 8/10 pp. 4-6 As feridas ocultas do abuso de crianças</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_89"/>
+          </navPoint>
+          <navPoint id="navPoint-90" playOrder="90">
+            <navLabel>
+              <text>g91 8/10 pp. 7-11 Um “tempo para curar”</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_90"/>
+          </navPoint>
+          <navPoint id="navPoint-91" playOrder="91">
+            <navLabel>
+              <text>w90 15/3 p. 28 Como ajudar os deprimidos a recobrar a alegria</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_91"/>
+          </navPoint>
+          <navPoint id="navPoint-92" playOrder="92">
+            <navLabel>
+              <text>w88 15/10 pp. 28-29 Aflição mental — quando atinge o cristão</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_92"/>
+          </navPoint>
+          <navPoint id="navPoint-93" playOrder="93">
+            <navLabel>
+              <text>w82 15/12 pp. 25-29 A “boa saúde” e a razoabilidade cristã</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_93"/>
+          </navPoint>
+          <navPoint id="navPoint-94" playOrder="94">
+            <navLabel>
+              <text>w75 15/10 pp. 639-640 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_94"/>
+          </navPoint>
+          <navPoint id="navPoint-95" playOrder="95">
+            <navLabel>
+              <text>w01 15/4 pp. 25-28 Pode ser bem-sucedido apesar da sua criação</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_95"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-96" playOrder="96">
+          <navLabel>
+            <text>Cuidados ao ajudar irmãs</text>
+          </navLabel>
+          <content src="Text/Section0004.xhtml#sigil_toc_id_96"/>
+          <navPoint id="navPoint-97" playOrder="97">
+            <navLabel>
+              <text>w06 15/9 pp. 26-27 “Alegra-te com a esposa da tua mocidade”</text>
+            </navLabel>
+            <content src="Text/Section0004.xhtml#sigil_toc_id_97"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-98" playOrder="98">
+      <navLabel>
+        <text>Capitulo Cinco</text>
+      </navLabel>
+      <content src="Text/Section0005.xhtml#sigil_toc_id_98"/>
+      <navPoint id="navPoint-99" playOrder="99">
+        <navLabel>
+          <text>COMO DETERMINAR A FORMAÇÃO DE UMA COMISSÃO JUDICATIVA</text>
+        </navLabel>
+        <content src="Text/Section0005.xhtml#sigil_toc_id_99"/>
+        <navPoint id="navPoint-100" playOrder="100">
+          <navLabel>
+            <text>Transgressões passíveis de ação judicativa</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_100"/>
+          <navPoint id="navPoint-101" playOrder="101">
+            <navLabel>
+              <text>w06 15/9 p. 30 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_101"/>
+          </navPoint>
+          <navPoint id="navPoint-102" playOrder="102">
+            <navLabel>
+              <text>w90 1/3 pp. 5-9 Como vencer a batalha contra a depressão</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_102"/>
+          </navPoint>
+          <navPoint id="navPoint-103" playOrder="103">
+            <navLabel>
+              <text>w90 15/3 pp. 26-30 Como ajudar os deprimidos a recobrar a alegria</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_103"/>
+          </navPoint>
+          <navPoint id="navPoint-104" playOrder="104">
+            <navLabel>
+              <text>g90 8/9 pp. 22-23 Os suicidas — terão ressurreição?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_104"/>
+          </navPoint>
+          <navPoint id="navPoint-105" playOrder="105">
+            <navLabel>
+              <text>w84 1/2 pp. 3-6 Por que tantos suicídios?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_105"/>
+          </navPoint>
+          <navPoint id="navPoint-106" playOrder="106">
+            <navLabel>
+              <text>w84 1/2 pp. 6-8 Esperança para os desesperados</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_106"/>
+          </navPoint>
+          <navPoint id="navPoint-107" playOrder="107">
+            <navLabel>
+              <text>w84 1/2 pp. 9-11 Eles querem ajudar</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_107"/>
+          </navPoint>
+          <navPoint id="navPoint-108" playOrder="108">
+            <navLabel>
+              <text>lv cap. 9 p. 99 ‘Fuja da fornicação’</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_108"/>
+          </navPoint>
+          <navPoint id="navPoint-109" playOrder="109">
+            <navLabel>
+              <text>w06 15/7 pp. 29-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_109"/>
+          </navPoint>
+          <navPoint id="navPoint-110" playOrder="110">
+            <navLabel>
+              <text>w04 15/2 pp. 13-14 pars. 12-15 Mantenha a castidade resguardando o coração</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_110"/>
+          </navPoint>
+          <navPoint id="navPoint-111" playOrder="111">
+            <navLabel>
+              <text>w00 1/11 p. 8 par. 6 O conceito divino da pureza moral</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_111"/>
+          </navPoint>
+          <navPoint id="navPoint-112" playOrder="112">
+            <navLabel>
+              <text>w83 1/12 pp. 23-27 Tenha o conceito de Deus sobre o sexo</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_112"/>
+          </navPoint>
+          <navPoint id="navPoint-113" playOrder="113">
+            <navLabel>
+              <text>w03 1/2 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_113"/>
+          </navPoint>
+          <navPoint id="navPoint-114" playOrder="114">
+            <navLabel>
+              <text>it-2 pp. 154-155 Fornicação</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_114"/>
+          </navPoint>
+          <navPoint id="navPoint-115" playOrder="115">
+            <navLabel>
+              <text>w83 15/9 p. 30 Honre o casamento piedoso!</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_115"/>
+          </navPoint>
+          <navPoint id="navPoint-116" playOrder="116">
+            <navLabel>
+              <text>w06 15/7 pp. 29-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_116"/>
+          </navPoint>
+          <navPoint id="navPoint-117" playOrder="117">
+            <navLabel>
+              <text>w83 15/9 pp. 30-31 Honre o casamento piedoso!</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_117"/>
+          </navPoint>
+          <navPoint id="navPoint-118" playOrder="118">
+            <navLabel>
+              <text>w74 1/5 pp. 286-288 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_118"/>
+          </navPoint>
+          <navPoint id="navPoint-119" playOrder="119">
+            <navLabel>
+              <text>w81 15/12 p. 21 Como encarar a desassociação</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_119"/>
+          </navPoint>
+          <navPoint id="navPoint-120" playOrder="120">
+            <navLabel>
+              <text>w06 15/7 pp. 29-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_120"/>
+          </navPoint>
+          <navPoint id="navPoint-121" playOrder="121">
+            <navLabel>
+              <text>w83 15/9 pp. 30-31 Honre o casamento piedoso!</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_121"/>
+          </navPoint>
+          <navPoint id="navPoint-122" playOrder="122">
+            <navLabel>
+              <text>g00 22/1 pp. 20-21 Como evitar os perigos da Internet?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_122"/>
+          </navPoint>
+          <navPoint id="navPoint-123" playOrder="123">
+            <navLabel>
+              <text>km 11/99 pp. 3-5 pars. 12-20 Cuidado com os perigos da Internet!</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_123"/>
+          </navPoint>
+          <navPoint id="navPoint-124" playOrder="124">
+            <navLabel>
+              <text>w06 15/7 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_124"/>
+          </navPoint>
+          <navPoint id="navPoint-125" playOrder="125">
+            <navLabel>
+              <text>w89 1/10 p. 19 pars. 14-17 Preserve a sua fé e a sua saúde espiritual</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_125"/>
+          </navPoint>
+          <navPoint id="navPoint-126" playOrder="126">
+            <navLabel>
+              <text>w86 1/4 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_126"/>
+          </navPoint>
+          <navPoint id="navPoint-127" playOrder="127">
+            <navLabel>
+              <text>w86 15/3 pp. 15-16 Não dê margem ao Diabo!</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_127"/>
+          </navPoint>
+          <navPoint id="navPoint-128" playOrder="128">
+            <navLabel>
+              <text>it-3 pp. 556-557 Seita</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_128"/>
+          </navPoint>
+          <navPoint id="navPoint-129" playOrder="129">
+            <navLabel>
+              <text>w99 15/4 pp. 28-30 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_129"/>
+          </navPoint>
+          <navPoint id="navPoint-130" playOrder="130">
+            <navLabel>
+              <text>km 11/76 pp. 3-6 Trabalhemos com boa consciência perante Deus e os homens</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_130"/>
+          </navPoint>
+          <navPoint id="navPoint-131" playOrder="131">
+            <navLabel>
+              <text>it-1 pp. 321-322 Bebedice, embriaguez</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_131"/>
+          </navPoint>
+          <navPoint id="navPoint-132" playOrder="132">
+            <navLabel>
+              <text>w83 1/11 p. 8 O problema com as bebidas — que podem fazer os anciãos?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_132"/>
+          </navPoint>
+          <navPoint id="navPoint-133" playOrder="133">
+            <navLabel>
+              <text>w04 1/11 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_133"/>
+          </navPoint>
+          <navPoint id="navPoint-134" playOrder="134">
+            <navLabel>
+              <text>w86 15/11 p. 14 Seja honesto em todas as coisas</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_134"/>
+          </navPoint>
+          <navPoint id="navPoint-135" playOrder="135">
+            <navLabel>
+              <text>it-2 pp. 807-808 Mentira</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_135"/>
+          </navPoint>
+          <navPoint id="navPoint-136" playOrder="136">
+            <navLabel>
+              <text>it-2 p. 160 Fraude</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_136"/>
+          </navPoint>
+          <navPoint id="navPoint-137" playOrder="137">
+            <navLabel>
+              <text>it-3 pp. 665-667 Tagarelice, calúnia</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_137"/>
+          </navPoint>
+          <navPoint id="navPoint-138" playOrder="138">
+            <navLabel>
+              <text>od cap.14 pp.147-149 Como manter a paz e a pureza da congregação</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_138"/>
+          </navPoint>
+          <navPoint id="navPoint-139" playOrder="139">
+            <navLabel>
+              <text>w97 15/3 pp. 17-22 Deixe que o discernimento o resguarde</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_139"/>
+          </navPoint>
+          <navPoint id="navPoint-140" playOrder="140">
+            <navLabel>
+              <text>w89 15/10 pp. 10-11 Guarde-se contra a tagarelice prejudicial!</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_140"/>
+          </navPoint>
+          <navPoint id="navPoint-141" playOrder="141">
+            <navLabel>
+              <text>od cap.14 pp.147-149 Como manter a paz e a pureza da congregação</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_141"/>
+          </navPoint>
+          <navPoint id="navPoint-142" playOrder="142">
+            <navLabel>
+              <text>w97 15/8 pp. 28-29 Por que relatar o que é mau?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_142"/>
+          </navPoint>
+          <navPoint id="navPoint-143" playOrder="143">
+            <navLabel>
+              <text>it-2 pp. 397-398 Injúria</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_143"/>
+          </navPoint>
+          <navPoint id="navPoint-144" playOrder="144">
+            <navLabel>
+              <text>g03 8/6 pp. 19-20 Não use palavras agressivas</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_144"/>
+          </navPoint>
+          <navPoint id="navPoint-145" playOrder="145">
+            <navLabel>
+              <text>w83 1/8 pp. 3-5 A era da obscenidade</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_145"/>
+          </navPoint>
+          <navPoint id="navPoint-146" playOrder="146">
+            <navLabel>
+              <text>it-2 p. 88 Extorsão</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_146"/>
+          </navPoint>
+          <navPoint id="navPoint-147" playOrder="147">
+            <navLabel>
+              <text>it-2 p. 179 Ganância</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_147"/>
+          </navPoint>
+          <navPoint id="navPoint-148" playOrder="148">
+            <navLabel>
+              <text>w89 15/1 p. 22 O preço de noiva — como devem os cristãos encará-lo?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_148"/>
+          </navPoint>
+          <navPoint id="navPoint-149" playOrder="149">
+            <navLabel>
+              <text>g02 22/7 pp. 4-8 Que mal há no jogo?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_149"/>
+          </navPoint>
+          <navPoint id="navPoint-150" playOrder="150">
+            <navLabel>
+              <text>w89 15/7 p. 30 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_150"/>
+          </navPoint>
+          <navPoint id="navPoint-151" playOrder="151">
+            <navLabel>
+              <text>g83 8/1 pp. 25-27 Loterias e apostas — são inofensivas?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_151"/>
+          </navPoint>
+          <navPoint id="navPoint-152" playOrder="152">
+            <navLabel>
+              <text>g82 22/5 p. 32 Vale a pena jogar na loteria?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_152"/>
+          </navPoint>
+          <navPoint id="navPoint-153" playOrder="153">
+            <navLabel>
+              <text>w81 1/3 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_153"/>
+          </navPoint>
+          <navPoint id="navPoint-154" playOrder="154">
+            <navLabel>
+              <text>w67 15/12 p.740 O engodo da loteria</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_154"/>
+          </navPoint>
+          <navPoint id="navPoint-155" playOrder="155">
+            <navLabel>
+              <text>km 11/76 pp. 3-6 Trabalhemos com boa consciência perante Deus e os homens</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_155"/>
+          </navPoint>
+          <navPoint id="navPoint-156" playOrder="156">
+            <navLabel>
+              <text>g76 8/1 pp. 28-29 Deveria “arriscar a sorte” na loteria?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_156"/>
+          </navPoint>
+          <navPoint id="navPoint-157" playOrder="157">
+            <navLabel>
+              <text>w73 15/8 pp. 511-512 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_157"/>
+          </navPoint>
+          <navPoint id="navPoint-158" playOrder="158">
+            <navLabel>
+              <text>w02 1/11 p. 31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_158"/>
+          </navPoint>
+          <navPoint id="navPoint-159" playOrder="159">
+            <navLabel>
+              <text>w98 15/9 pp. 24-25 Seja razoável ao negociar o preço de noiva</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_159"/>
+          </navPoint>
+          <navPoint id="navPoint-160" playOrder="160">
+            <navLabel>
+              <text>w88 1/11 pp. 22-23 Quando a paz conjugal estiver ameaçada</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_160"/>
+          </navPoint>
+          <navPoint id="navPoint-161" playOrder="161">
+            <navLabel>
+              <text>km 11/73 p. 4 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_161"/>
+          </navPoint>
+          <navPoint id="navPoint-162" playOrder="162">
+            <navLabel>
+              <text>g01 8/11 p. 12 Ajuda a mulheres vítimas de violência</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_162"/>
+          </navPoint>
+          <navPoint id="navPoint-163" playOrder="163">
+            <navLabel>
+              <text>g97 8/6 p. 20 Por que controlar a ira?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_163"/>
+          </navPoint>
+          <navPoint id="navPoint-164" playOrder="164">
+            <navLabel>
+              <text>fy cap. 12 pp. 150-151 É possível vencer problemas que causam dano à família</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_164"/>
+          </navPoint>
+          <navPoint id="navPoint-165" playOrder="165">
+            <navLabel>
+              <text>g93 8/2 p. 14 O fim da violência doméstica</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_165"/>
+          </navPoint>
+          <navPoint id="navPoint-166" playOrder="166">
+            <navLabel>
+              <text>w81 1/12 p. 31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_166"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-167" playOrder="167">
+          <navLabel>
+            <text/>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_167"/>
+          <navPoint id="navPoint-168" playOrder="168">
+            <navLabel>
+              <text>w97 15/8 pp. 27-28 Por que relatar o que é mau?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_168"/>
+          </navPoint>
+          <navPoint id="navPoint-169" playOrder="169">
+            <navLabel>
+              <text>w95 1/11 pp. 28-29 Consolo para o “espírito abatido”</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_169"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-170" playOrder="170">
+          <navLabel>
+            <text/>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_170"/>
+          <navPoint id="navPoint-171" playOrder="171">
+            <navLabel>
+              <text>w85 15/7 p. 19 par. 14 ‘Corra para alcançar o prêmio’</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_171"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-172" playOrder="172">
+          <navLabel>
+            <text>Transgressões que ocorreram anos atrás</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_172"/>
+        </navPoint>
+        <navPoint id="navPoint-173" playOrder="173">
+          <navLabel>
+            <text>O batismo do transgressor foi válido?</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_173"/>
+          <navPoint id="navPoint-174" playOrder="174">
+            <navLabel>
+              <text>w10 15/2 p. 22 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_174"/>
+          </navPoint>
+          <navPoint id="navPoint-175" playOrder="175">
+            <navLabel>
+              <text>w64 1/8 pp. 473-477 Dedicou-se aceitavelmente a Deus?</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_175"/>
+          </navPoint>
+          <navPoint id="navPoint-176" playOrder="176">
+            <navLabel>
+              <text>w61 1/1 pp. 31-32 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_176"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-177" playOrder="177">
+          <navLabel>
+            <text>Que congregação deve cuidar do assunto?</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_177"/>
+        </navPoint>
+        <navPoint id="navPoint-178" playOrder="178">
+          <navLabel>
+            <text>Quando a conduta errada envolve publicadores de congregações diferentes</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_178"/>
+        </navPoint>
+        <navPoint id="navPoint-179" playOrder="179">
+          <navLabel>
+            <text>Publicadores não batizados que se envolvem em grave conduta errada</text>
+          </navLabel>
+          <content src="Text/Section0005.xhtml#sigil_toc_id_179"/>
+          <navPoint id="navPoint-180" playOrder="180">
+            <navLabel>
+              <text>od cap. 14 pp. 157-158 Como manter a paz e a pureza da congregação</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_180"/>
+          </navPoint>
+          <navPoint id="navPoint-181" playOrder="181">
+            <navLabel>
+              <text>w88 15/11 pp. 17-20 Ajudemos outros a adorar a Deus</text>
+            </navLabel>
+            <content src="Text/Section0005.xhtml#sigil_toc_id_181"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-182" playOrder="182">
+      <navLabel>
+        <text>Capitulo Seis</text>
+      </navLabel>
+      <content src="Text/Section0006.xhtml#sigil_toc_id_182"/>
+      <navPoint id="navPoint-183" playOrder="183">
+        <navLabel>
+          <text>PREPARAÇÃO PARA A AUDIÊNCIA JUDICATIVA</text>
+        </navLabel>
+        <content src="Text/Section0006.xhtml#sigil_toc_id_183"/>
+        <navPoint id="navPoint-184" playOrder="184">
+          <navLabel>
+            <text>Escolha da comissão judicativa e seu presidente</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_184"/>
+          <navPoint id="navPoint-185" playOrder="185">
+            <navLabel>
+              <text>km 11/77 pp. 5-6 Novos arranjos para a organização da congregação</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_185"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-186" playOrder="186">
+          <navLabel>
+            <text>Prepare a mente e o coração para julgar</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_186"/>
+        </navPoint>
+        <navPoint id="navPoint-187" playOrder="187">
+          <navLabel>
+            <text>Convocação do acusado para a audiência judicativa</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_187"/>
+        </navPoint>
+        <navPoint id="navPoint-188" playOrder="188">
+          <navLabel>
+            <text>Audiências com pessoas casadas</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_188"/>
+        </navPoint>
+        <navPoint id="navPoint-189" playOrder="189">
+          <navLabel>
+            <text>Audiências com menores batizados</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_189"/>
+        </navPoint>
+        <navPoint id="navPoint-190" playOrder="190">
+          <navLabel>
+            <text>Audiências com pessoas na prisão</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_190"/>
+        </navPoint>
+        <navPoint id="navPoint-191" playOrder="191">
+          <navLabel>
+            <text>Quando o acusado ameaça se suicidar</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_191"/>
+          <navPoint id="navPoint-192" playOrder="192">
+            <navLabel>
+              <text>w00 15/9 pp. 3-4 Pedido de socorro</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_192"/>
+          </navPoint>
+          <navPoint id="navPoint-193" playOrder="193">
+            <navLabel>
+              <text>w00 15/9 pp. 4-7 Em breve um mundo livre do desespero</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_193"/>
+          </navPoint>
+          <navPoint id="navPoint-194" playOrder="194">
+            <navLabel>
+              <text>w88 15/10 pp. 25-29 Aflição mental — quando atinge o cristão</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_194"/>
+          </navPoint>
+          <navPoint id="navPoint-195" playOrder="195">
+            <navLabel>
+              <text>w88 15/11 pp. 21-24 “Palavras espirituais” para os mentalmente afligidos</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_195"/>
+          </navPoint>
+          <navPoint id="navPoint-196" playOrder="196">
+            <navLabel>
+              <text>w83 1/1 pp. 9-14 Língua treinada — “para animar os fatigados”</text>
+            </navLabel>
+            <content src="Text/Section0006.xhtml#sigil_toc_id_196"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-197" playOrder="197">
+          <navLabel>
+            <text>Quando o acusado ameaça processar os anciãos</text>
+          </navLabel>
+          <content src="Text/Section0006.xhtml#sigil_toc_id_197"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-198" playOrder="198">
+      <navLabel>
+        <text>Capitulo Sete</text>
+      </navLabel>
+      <content src="Text/Section0007.xhtml"/>
+      <navPoint id="navPoint-199" playOrder="199">
+        <navLabel>
+          <text>AUDIÊNCIAS JUDICATIVAS</text>
+        </navLabel>
+        <content src="Text/Section0007.xhtml#sigil_toc_id_198"/>
+        <navPoint id="navPoint-200" playOrder="200">
+          <navLabel>
+            <text>Como avaliar se há arrependimento genuíno</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#sigil_toc_id_199"/>
+        </navPoint>
+        <navPoint id="navPoint-201" playOrder="201">
+          <navLabel>
+            <text>Quando não há evidencias claras de arrependimento</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#sigil_toc_id_200"/>
+        </navPoint>
+        <navPoint id="navPoint-202" playOrder="202">
+          <navLabel>
+            <text>Quando a decisão for repreender</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#sigil_toc_id_201"/>
+        </navPoint>
+        <navPoint id="navPoint-203" playOrder="203">
+          <navLabel>
+            <text>Quando a decisão for desassociar</text>
+          </navLabel>
+          <content src="Text/Section0007.xhtml#sigil_toc_id_202"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-204" playOrder="204">
+      <navLabel>
+        <text>Capitulo Oito</text>
+      </navLabel>
+      <content src="Text/Section0008.xhtml#sigil_toc_id_203"/>
+      <navPoint id="navPoint-205" playOrder="205">
+        <navLabel>
+          <text>AUDIÊNCIA DE APELAÇÃO</text>
+        </navLabel>
+        <content src="Text/Section0008.xhtml#sigil_toc_id_204"/>
+        <navPoint id="navPoint-206" playOrder="206">
+          <navLabel>
+            <text>Objetivo e abordagem da comissão de apelação</text>
+          </navLabel>
+          <content src="Text/Section0008.xhtml#sigil_toc_id_205"/>
+          <navPoint id="navPoint-207" playOrder="207">
+            <navLabel>
+              <text>od cap. 14 p. 154 Como manter a paz e a pureza da congregação</text>
+            </navLabel>
+            <content src="Text/Section0008.xhtml#sigil_toc_id_206"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-208" playOrder="208">
+          <navLabel>
+            <text>Quando a comissão de apelação concorda com a comissão judicativa</text>
+          </navLabel>
+          <content src="Text/Section0008.xhtml#sigil_toc_id_207"/>
+        </navPoint>
+        <navPoint id="navPoint-209" playOrder="209">
+          <navLabel>
+            <text>Quando a comissão de apelação discorda da comissão judicativa</text>
+          </navLabel>
+          <content src="Text/Section0008.xhtml#sigil_toc_id_208"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-210" playOrder="210">
+      <navLabel>
+        <text>Capitulo Nove</text>
+      </navLabel>
+      <content src="Text/Section0009.xhtml#sigil_toc_id_209"/>
+      <navPoint id="navPoint-211" playOrder="211">
+        <navLabel>
+          <text>DISSOCIAÇÃO</text>
+        </navLabel>
+        <content src="Text/Section0009.xhtml#sigil_toc_id_210"/>
+        <navPoint id="navPoint-212" playOrder="212">
+          <navLabel>
+            <text>w85 1/4 p. 32 Perguntas dos Leitores</text>
+          </navLabel>
+          <content src="Text/Section0009.xhtml#sigil_toc_id_211"/>
+        </navPoint>
+        <navPoint id="navPoint-213" playOrder="213">
+          <navLabel>
+            <text>w99 1/11 pp. 28-29 Perguntas dos Leitores</text>
+          </navLabel>
+          <content src="Text/Section0009.xhtml#sigil_toc_id_212"/>
+        </navPoint>
+        <navPoint id="navPoint-214" playOrder="214">
+          <navLabel>
+            <text>km 11/76 pp. 3-6 Trabalhemos com boa consciência perante Deus e os homens</text>
+          </navLabel>
+          <content src="Text/Section0009.xhtml#sigil_toc_id_213"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-215" playOrder="215">
+      <navLabel>
+        <text>Capitulo Dez</text>
+      </navLabel>
+      <content src="Text/Section0010.xhtml#sigil_toc_id_214"/>
+      <navPoint id="navPoint-216" playOrder="216">
+        <navLabel>
+          <text>ASSUNTOS RELACIONADOS A DESASSOCIADOS E DISSOCIADOS</text>
+        </navLabel>
+        <content src="Text/Section0010.xhtml#sigil_toc_id_215"/>
+        <navPoint id="navPoint-217" playOrder="217">
+          <navLabel>
+            <text>w91 15/4 pp. 21-23 Imitemos a misericórdia de Deus</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#sigil_toc_id_216"/>
+        </navPoint>
+        <navPoint id="navPoint-218" playOrder="218">
+          <navLabel>
+            <text>lv pp. 207-209 Como tratar uma pessoa desassociada</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#sigil_toc_id_217"/>
+        </navPoint>
+        <navPoint id="navPoint-219" playOrder="219">
+          <navLabel>
+            <text>w88 15/4 pp. 26-31 A disciplina que pode dar fruto pacífico</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#sigil_toc_id_218"/>
+        </navPoint>
+        <navPoint id="navPoint-220" playOrder="220">
+          <navLabel>
+            <text>km 8/02 pp. 3-4 Demonstre lealdade cristã quando um parente é desassociado</text>
+          </navLabel>
+          <content src="Text/Section0010.xhtml#sigil_toc_id_219"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-221" playOrder="221">
+      <navLabel>
+        <text>Capitulo Onze</text>
+      </navLabel>
+      <content src="Text/Section0011.xhtml#sigil_toc_id_220"/>
+      <navPoint id="navPoint-222" playOrder="222">
+        <navLabel>
+          <text>COMISSÕES DE READMISSÃO</text>
+        </navLabel>
+        <content src="Text/Section0011.xhtml#sigil_toc_id_221"/>
+        <navPoint id="navPoint-223" playOrder="223">
+          <navLabel>
+            <text>Quando receberem um pedido de readmissão</text>
+          </navLabel>
+          <content src="Text/Section0011.xhtml#sigil_toc_id_222"/>
+          <navPoint id="navPoint-224" playOrder="224">
+            <navLabel>
+              <text>od cap. 14 p. 156 Como manter a paz e a pureza da congregação</text>
+            </navLabel>
+            <content src="Text/Section0011.xhtml#sigil_toc_id_223"/>
+          </navPoint>
+          <navPoint id="navPoint-225" playOrder="225">
+            <navLabel>
+              <text>it-1 pp. 209-211 Arrependimento</text>
+            </navLabel>
+            <content src="Text/Section0011.xhtml#sigil_toc_id_224"/>
+          </navPoint>
+          <navPoint id="navPoint-226" playOrder="226">
+            <navLabel>
+              <text>w83 15/9 pp. 29-30 Honre o casamento piedoso!</text>
+            </navLabel>
+            <content src="Text/Section0011.xhtml#sigil_toc_id_225"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-227" playOrder="227">
+          <navLabel>
+            <text>Quando a decisão é readmitir</text>
+          </navLabel>
+          <content src="Text/Section0011.xhtml#sigil_toc_id_226"/>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+    <navPoint id="navPoint-228" playOrder="228">
+      <navLabel>
+        <text>Capitulo Doze</text>
+      </navLabel>
+      <content src="Text/Section0012.xhtml#sigil_toc_id_227"/>
+      <navPoint id="navPoint-229" playOrder="229">
+        <navLabel>
+          <text>ESCLARECIMENTOS E ORIENTAÇÕES SOBRE CERTOS ASSUNTOS</text>
+        </navLabel>
+        <content src="Text/Section0012.xhtml#sigil_toc_id_228"/>
+        <navPoint id="navPoint-230" playOrder="230">
+          <navLabel>
+            <text>Tomar nota dos desordeiros</text>
+          </navLabel>
+          <content src="Text/Section0012.xhtml#sigil_toc_id_229"/>
+          <navPoint id="navPoint-231" playOrder="231">
+            <navLabel>
+              <text>w99 15/7 pp. 29-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_230"/>
+          </navPoint>
+          <navPoint id="navPoint-232" playOrder="232">
+            <navLabel>
+              <text>od cap. 14 pp. 150-151 Como manter a paz e a pureza da congregação</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_231"/>
+          </navPoint>
+          <navPoint id="navPoint-233" playOrder="233">
+            <navLabel>
+              <text>w85 15/9 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_232"/>
+          </navPoint>
+          <navPoint id="navPoint-234" playOrder="234">
+            <navLabel>
+              <text>w04 1/7 pp. 30-31 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_233"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-235" playOrder="235">
+          <navLabel>
+            <text>Casamentos</text>
+          </navLabel>
+          <content src="Text/Section0012.xhtml#sigil_toc_id_234"/>
+          <navPoint id="navPoint-236" playOrder="236">
+            <navLabel>
+              <text>w97 15/4 pp. 24-25 Casamentos que honram a Jeová</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_235"/>
+          </navPoint>
+          <navPoint id="navPoint-237" playOrder="237">
+            <navLabel>
+              <text>w84 15/10 pp. 12-14 pars. 12-15 Casamentos cristãos que dão alegria</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_236"/>
+          </navPoint>
+          <navPoint id="navPoint-238" playOrder="238">
+            <navLabel>
+              <text>w06 15/10 pp. 19-20 par. 8 Casamentos honrosos à vista de Deus e do homem</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_237"/>
+          </navPoint>
+          <navPoint id="navPoint-239" playOrder="239">
+            <navLabel>
+              <text>km 11/08 p. 3 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_238"/>
+          </navPoint>
+          <navPoint id="navPoint-240" playOrder="240">
+            <navLabel>
+              <text>w06 15/10 pp. 18-23 Casamentos honrosos à vista de Deus e do homem</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_239"/>
+          </navPoint>
+          <navPoint id="navPoint-241" playOrder="241">
+            <navLabel>
+              <text>w06 15/10 pp. 23-27 Dê provas de sua fé por meio de sua conduta</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_240"/>
+          </navPoint>
+          <navPoint id="navPoint-242" playOrder="242">
+            <navLabel>
+              <text>w06 15/10 pp. 28-31 Aumente a alegria e a dignidade do dia de seu casamento</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_241"/>
+          </navPoint>
+          <navPoint id="navPoint-243" playOrder="243">
+            <navLabel>
+              <text>w97 15/4 pp. 23-26 Casamentos que honram a Jeová</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_242"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-244" playOrder="244">
+          <navLabel>
+            <text>Liberdade bíblica para casar novamente</text>
+          </navLabel>
+          <content src="Text/Section0012.xhtml#sigil_toc_id_243"/>
+          <navPoint id="navPoint-245" playOrder="245">
+            <navLabel>
+              <text>w78 15/2 p. 31 Perguntas dos leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_244"/>
+          </navPoint>
+          <navPoint id="navPoint-246" playOrder="246">
+            <navLabel>
+              <text>w00 15/12 pp. 28-29 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_245"/>
+          </navPoint>
+          <navPoint id="navPoint-247" playOrder="247">
+            <navLabel>
+              <text>w75 15/6 pp. 383-384 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_246"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-248" playOrder="248">
+          <navLabel>
+            <text>Casamento adúltero</text>
+          </navLabel>
+          <content src="Text/Section0012.xhtml#sigil_toc_id_247"/>
+          <navPoint id="navPoint-249" playOrder="249">
+            <navLabel>
+              <text>w83 15/9 pp. 29-30 Honre o casamento piedoso!</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_248"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-250" playOrder="250">
+          <navLabel>
+            <text>Abuso de menores</text>
+          </navLabel>
+          <content src="Text/Section0012.xhtml#sigil_toc_id_249"/>
+          <navPoint id="navPoint-251" playOrder="251">
+            <navLabel>
+              <text>w95 1/11 pp. 25-29 Consolo para o “espírito abatido”</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_250"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-252" playOrder="252">
+          <navLabel>
+            <text>Processos legais entre irmãos</text>
+          </navLabel>
+          <content src="Text/Section0012.xhtml#sigil_toc_id_251"/>
+          <navPoint id="navPoint-253" playOrder="253">
+            <navLabel>
+              <text>w97 15/3 pp. 21-22 Deixe que o discernimento o resguarde</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_252"/>
+          </navPoint>
+          <navPoint id="navPoint-254" playOrder="254">
+            <navLabel>
+              <text>w86 15/11 pp. 19-20 A unidade cristã mantida nas relações comerciais</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_253"/>
+          </navPoint>
+          <navPoint id="navPoint-255" playOrder="255">
+            <navLabel>
+              <text>g83 8/8 pp. 13-15 Ponha-o por escrito!</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_254"/>
+          </navPoint>
+          <navPoint id="navPoint-256" playOrder="256">
+            <navLabel>
+              <text>w74 15/6 pp. 383-384 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_255"/>
+          </navPoint>
+        </navPoint>
+        <navPoint id="navPoint-257" playOrder="257">
+          <navLabel>
+            <text>Desastres naturais</text>
+          </navLabel>
+          <content src="Text/Section0012.xhtml#sigil_toc_id_256"/>
+          <navPoint id="navPoint-258" playOrder="258">
+            <navLabel>
+              <text>km 1/07 p. 4 Está preparado para um desastre natural?</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_257"/>
+          </navPoint>
+          <navPoint id="navPoint-259" playOrder="259">
+            <navLabel>
+              <text>g96 22/6 p. 17 Como ajudar seu filho a superar um desastre natural</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_258"/>
+          </navPoint>
+          <navPoint id="navPoint-260" playOrder="260">
+            <navLabel>
+              <text>w66 15/7 pp. 447-448 Perguntas dos Leitores</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_259"/>
+          </navPoint>
+          <navPoint id="navPoint-261" playOrder="261">
+            <navLabel>
+              <text>km 6/05 p. 7 Perguntas Respondidas</text>
+            </navLabel>
+            <content src="Text/Section0012.xhtml#sigil_toc_id_260"/>
+          </navPoint>
+        </navPoint>
+      </navPoint>
+    </navPoint>
+  </navMap>
+</ncx>

@@ -1,0 +1,45 @@
+REUNIÕES ESPECIAIS - V4 - AUDITORIA COMPLETA DE CONTEÚDO
+
+CORREÇÕES APLICADAS
+- Nomes/caminhos acentuados normalizados em UTF-8.
+- Leitor interno com codificação segura de caminhos.
+- Botão Abrir PDF visível também no celular.
+- Service Worker principal com suporte HTTP Range (206).
+- Service Worker da Escola do Pioneiro reforçado para Range.
+- Service Worker dos Bosquejos ES reforçado para Range e sem fallback HTML para PDF.
+- Caches atualizados: Reuniões v4, Escola v5, Bosquejos v6.
+
+VALIDAÇÕES
+- OK: Integridade CRC de todo o ZIP
+- OK: Nomes não ASCII marcados como UTF-8
+- OK: Todos os caminhos do catálogo principal existem
+- OK: Todos os arquivos da Escola do Pioneiro referenciados existem
+- OK: Todos os PDFs/mídias dos Bosquejos ES referenciados existem
+- OK: Referências locais href/src dos HTMLs existem
+- OK: Ícones dos três manifestos existem
+- OK: Todos os PDFs são estruturalmente válidos e renderizáveis
+- OK: EPUBs internos válidos
+- OK: Service Workers suportam requisições Range
+- OK: Falha de PDF não é convertida em index.html
+- OK: Sintaxe JavaScript dos três PWAs
+- OK: Todos os PDFs respondem por URL HTTP UTF-8
+- OK: Áudios e vídeos reconhecidos pelo ffprobe
+
+CONTAGENS
+- Entradas no ZIP: 905
+- Duplicatas: 0
+- Nomes não ASCII/acentuados: 331
+- Itens catálogo principal: 228
+- Referências Escola do Pioneiro: 55
+- Esboços ES: 208
+- Referências Bosquejos: 234
+- PDFs verificados: 694
+- Páginas PDF somadas: 2242
+- PDFs testados por HTTP: 694
+- EPUBs: 2
+- Áudios/vídeos: 15
+- JavaScript: 9
+
+RESULTADO
+Nenhum PDF corrompido foi encontrado. Os problemas estavam na camada de acesso (codificação de nomes/caminhos e cache/Range).
+A versão V4 corrige esses pontos e passou em toda a auditoria.

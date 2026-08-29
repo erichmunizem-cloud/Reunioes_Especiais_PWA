@@ -1,0 +1,23 @@
+{
+  "items": 226,
+  "sections": {
+    "Reuniões Especiais": 19,
+    "Assembléias e Congressos": 36,
+    "Discursos Públicos Preparados": 46,
+    "Escola do Ministério do Reino": 6,
+    "Necessidades Locais": 21,
+    "Reunião Anual — Pioneiros e Anciãos": 33,
+    "Anciãos e Servos — Visita do SC": 16,
+    "Pioneiros — Visita do SC": 15,
+    "Pioneiros — Assembléia de Circuito": 13,
+    "Superintendentes": 21
+  },
+  "size_bytes": 468164178,
+  "optimized_videos": [
+    "content/especiais/Que te pasa dormilon_Video/Parte 04.mp4",
+    "content/especiais/Que te pasa dormilon_Video/Parte 02.mp4",
+    "content/especiais/Que te pasa dormilon_Video/Parte 01.mp4",
+    "content/especiais/Que te pasa dormilon_Video/Parte 00.mp4",
+    "content/especiais/Que te pasa dormilon_Video/Parte 03.mp4"
+  ]
+}
