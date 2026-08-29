@@ -1,0 +1,53 @@
+EEM — ACERVO DE ESTUDIO · CLASE 27
+
+PACOTE RECONSTRUÍDO PARA ESTUDO PESSOAL, GITHUB PAGES E HTTP/HTTPS
+
+Principais ajustes:
+- índice das 9 disciplinas do programa, com letra e unidades;
+- referências bibliográficas organizadas por unidade;
+- comparação preservada entre programa PDF e amostras JPG;
+- bibliografia digitalizada das disciplinas F, H, M, O, S e T em leitura interna;
+- links das referências abrem pesquisa no WOL em nova aba;
+- busca global por unidade, tema, referência e texto;
+- favoritos, marcação de estudado e notas pessoais salvas no navegador;
+- programa PDF abre em leitor interno do site;
+- arquivo pessoal e fotos abrem em visualizador interno;
+- Digitalizar0002.jpg e Digitalizar0003.jpg foram retirados do Arquivo pessoal;
+- nomes problemáticos com #U00xx foram substituídos por caminhos seguros;
+- PWA responsiva para computador e celular;
+- cache progressivo: o núcleo funciona offline depois do primeiro acesso e mídias são armazenadas conforme usadas.
+
+GitHub Pages:
+1. Envie todo o conteúdo desta pasta para a raiz do repositório.
+2. Settings > Pages > Deploy from a branch.
+3. Selecione main e /(root).
+
+Uso local:
+O conteúdo principal também abre por file:// porque os dados foram incorporados em data.js. Para instalar como PWA e usar cache offline, utilize HTTP/HTTPS.
+Exemplo: python -m http.server 8080
+
+Observação de fidelidade:
+O texto bibliográfico em espanhol foi preservado como já estava digitalizado no pacote de origem. Como se trata de reconhecimento de texto, podem existir erros de OCR; a reconstrução não corrige silenciosamente palavras ou referências duvidosas.
+
+ATUALIZAÇÃO: Pactos.jpg foi incluído em Archivo personal e pode ser aberto internamente.
+
+
+CORREÇÃO DE LEITURA
+A transcrição OCR defeituosa foi retirada. As 386 páginas das disciplinas F, H, M, O, S e T são exibidas como JPGs originais, com zoom e navegação.
+
+ATUALIZAÇÃO PDF: As 386 digitalizações JPG da Bibliografía foram removidas. A Bibliografía agora utiliza seis PDFs internos (F, H, M, O, S e T). As imagens de Archivo personal e Fotos permanecem, pois não são páginas bibliográficas.
+
+
+ATUALIZAÇÃO - PROGR-EEM E LINKS OFICIAIS
+- Progr-EEM original incluído: sources/Progr-EEM-original.pdf
+- Versão com hiperlinks oficiais: sources/Progr-EEM-enlaces-oficiales.pdf
+- 537 áreas clicáveis foram adicionadas ao PDF do programa, direcionando para buscas oficiais em wol.jw.org.
+- Na interface por unidade, cada referência tem dois acessos: WOL e JW.ORG.
+- Os PDFs anexados S e T foram usados como fonte para gerar versões otimizadas para leitura web, substituindo os PDFs internos correspondentes.
+- O conteúdo permanece com 50 páginas em S e 141 páginas em T, mantendo o pacote adequado para PWA/GitHub.
+
+ATUALIZAÇÃO DE NAVEGAÇÃO E LINKS:
+- Referências com ½ e ¼ são normalizadas para 1/2 e 1/4 antes de abrir WOL/JW.ORG.
+- O PDF Progr-EEM com links teve suas URIs corrigidas da mesma forma.
+- A navegação lateral da Bibliografía força a recarga do PDF na página escolhida; em celular há um seletor "Ir a".
+- Material complementario passa a usar uma única coluna de leitura.

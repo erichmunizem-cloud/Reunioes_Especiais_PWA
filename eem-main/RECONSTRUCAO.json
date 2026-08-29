@@ -1,0 +1,42 @@
+{
+  "program_disciplines": 9,
+  "program_units": 160,
+  "bibliography_disciplines": [
+    "F",
+    "H",
+    "M",
+    "O",
+    "S",
+    "T"
+  ],
+  "bibliography_pages": 386,
+  "archive_files": 43,
+  "photo_groups": 6,
+  "photo_files": 44,
+  "special_moments": 3,
+  "supplemental_items": 8,
+  "excluded_archive": [
+    "Digitalizar0002.jpg",
+    "Digitalizar0003.jpg"
+  ],
+  "latest_update": {
+    "version": "v7-navigation-links",
+    "fraction_links": "½->1/2; ¼->1/4",
+    "linked_pdf_uris_corrected": 15,
+    "bibliography_navigation": "forced PDF reload + page selector",
+    "supplemental_layout": "single column"
+  },
+  "scan_pages": 386,
+  "reading_fix": "OCR removido; bibliografia usa 386 JPGs originais",
+  "bibliography_counts": {
+    "F": 23,
+    "H": 1,
+    "M": 40,
+    "O": 131,
+    "S": 50,
+    "T": 141
+  },
+  "bibliography_format": "PDF interno",
+  "bibliography_pdfs": 6,
+  "bibliography_jpg_files": 0
+}

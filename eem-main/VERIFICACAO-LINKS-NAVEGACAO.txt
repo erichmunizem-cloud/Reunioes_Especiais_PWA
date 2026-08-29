@@ -1,0 +1,25 @@
+VERIFICAÇÃO - LINKS E NAVEGAÇÃO EEM
+
+1. Referências normalizadas
+- ½ -> 1/2
+- ¼ -> 1/4
+- Unidades corrigidas: T2, T13, T17, T18, O2, O20, O32, A9, F1, F11, M14.
+
+2. Links externos do aplicativo
+- Todos os links gerados usam exclusivamente wol.jw.org ou www.jw.org.
+- As referências são normalizadas antes da codificação da URL.
+- Nenhuma URL estruturada contém ½ ou ¼.
+
+3. Progr-EEM com links
+- 537 anotações de link verificadas.
+- 15 URIs com frações tipográficas foram corrigidas.
+- Todas as anotações externas apontam para wol.jw.org.
+
+4. Bibliografía interna
+- A seleção de páginas força recarga do iframe no PDF escolhido, com #page e identificador de recarga em HTTP/HTTPS.
+- Incluído seletor de página para celular.
+- Nenhum JPG existe dentro de media/bibliografia.
+
+5. Material complementario
+- Layout fixado em uma única coluna.
+- Leitura otimizada para largura de celular.

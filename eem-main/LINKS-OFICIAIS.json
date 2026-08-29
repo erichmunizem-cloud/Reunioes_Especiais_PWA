@@ -1,0 +1,55 @@
+{
+  "program_pdf_original": "sources/Progr-EEM-original.pdf",
+  "program_pdf_linked": "sources/Progr-EEM-enlaces-oficiales.pdf",
+  "program_pages": 14,
+  "program_link_annotations": 537,
+  "program_reference_chunks": 546,
+  "official_domains": [
+    "wol.jw.org",
+    "www.jw.org"
+  ],
+  "internal_bibliography": [
+    [
+      "F",
+      23,
+      "media/bibliografia/pdf/F-Ministerio-del-Campo.pdf"
+    ],
+    [
+      "H",
+      1,
+      "media/bibliografia/pdf/H-Historia-de-los-Testigos-de-Jehova.pdf"
+    ],
+    [
+      "M",
+      40,
+      "media/bibliografia/pdf/M-Reuniones-Cristianas.pdf"
+    ],
+    [
+      "O",
+      131,
+      "media/bibliografia/pdf/O-Organizacion-Teocratica.pdf"
+    ],
+    [
+      "S",
+      50,
+      "media/bibliografia/pdf/S-Desarrollo-Espiritual.pdf"
+    ],
+    [
+      "T",
+      141,
+      "media/bibliografia/pdf/T-Ensenanzas-Biblicas.pdf"
+    ]
+  ],
+  "attachment_based_pdfs": [
+    "media/bibliografia/pdf/S-Desarrollo-Espiritual.pdf",
+    "media/bibliografia/pdf/T-Ensenanzas-Biblicas.pdf",
+    "sources/Progr-EEM-enlaces-oficiales.pdf"
+  ],
+  "fraction_normalization": {
+    "½": "1/2",
+    "¼": "1/4"
+  },
+  "linked_pdf_uris_corrected": 15,
+  "bibliography_page_navigation": "iframe forced reload + cache-busting query on HTTP/HTTPS + #page fragment + mobile page selector",
+  "external_link_validation": "Structural validation of all generated URLs + representative live checks against official WOL/JW.ORG endpoints."
+}
